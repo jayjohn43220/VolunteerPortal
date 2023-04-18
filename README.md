@@ -32,3 +32,6 @@ Lastly, in the same files, you will also find this line of code
 let fromname = Mail.User(name: "Project Headspace and Timing", email: "<ENTER INITIAL DESIRED FROM EMAIL>")
 ```
 In the email section, enter in  your email. Again, don't forget to remove the `<>`.
+
+## Credits
+Email System made possible using [Kitura's Swift-SMTP](https://github.com/Kitura/Swift-SMTP) project.
